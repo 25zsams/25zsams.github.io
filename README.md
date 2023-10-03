@@ -1,6 +1,7 @@
 # stable-diffusion-gallery
-Everything here including image and code is generated using ai. ChatGPT and Stable Diffusion
+Test project static website: https://25zsams.github.io/
+Everything here including image and code is generated using ai. ChatGPT for coding and Stable Diffusion for images.
 
 To display your image: 
-1. simple drop your image files into the image folder.
-2. Edit the images.js. copy pasta the name of your images file.
+1. drop your image files into the image folder.
+2. edit the images.js. copy pasta the name of your image file.
